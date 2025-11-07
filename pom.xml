@@ -8,27 +8,33 @@
 		<version>3.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>org.neocities.aletheos</groupId>
-	<artifactId>springbootcamp</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>spring-boot-camp</artifactId>
+	<version>0.1.0</version>
 	<name>Spring Boot Camp</name>
 	<description>My Spring Boot sandbox</description>
 	<url/>
+
 	<licenses>
 		<license/>
 	</licenses>
+
 	<developers>
 		<developer/>
 	</developers>
+
 	<scm>
 		<connection/>
 		<developerConnection/>
 		<tag/>
 		<url/>
 	</scm>
+
 	<properties>
-		<java.version>25</java.version>
+		<java.version>24</java.version>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
